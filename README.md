@@ -11,6 +11,13 @@
 - [@bArSu45](https://github.com/bArSu45)
 - [@ikram1005](https://github.com/ikram1005)
 
+## Deployed Link
+ https://luxury-lollipop-1d0feb.netlify.app
+
+## SnapShot
+![sports](https://user-images.githubusercontent.com/104014308/188424422-8728e5a0-e9af-460e-a293-c42586b79cb2.PNG)
+![sports_Details](https://user-images.githubusercontent.com/104014308/188424454-e110c7c9-4146-4e33-80e3-62f9aeddbbac.PNG)
+
 ## Features
 - Inshort News display
 - Detailed News Display
@@ -25,7 +32,6 @@
 - CSS
 - JavaScript
 
-## Deployed Link
--[link] (https://luxury-lollipop-1d0feb.netlify.app)
+
 
 
