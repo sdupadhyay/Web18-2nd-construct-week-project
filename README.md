@@ -1,7 +1,7 @@
 # DNA India 
 
 - DNA India is a news website, which covers all the types of news across the globe.
-- this website was cloned as part of project work of Unit 3 and we are the team of 6 people who have contibuted in this project.
+- This website was cloned as part of project work of Unit 3 and we are the team of 6 people who have contibuted in this project.
 
 ## Authors
 - [@ABVenu](https://github.com/ABVenu)
